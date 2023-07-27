@@ -1,0 +1,53 @@
+{
+    "products":[
+        {
+              "id": 1,
+              "name": "iphone 12 pro",
+              "desc": "Apple Iphone 12th generation ",
+              "price": 999,
+              "color": "#33505a",
+              "image":
+                     "https://www.mobileguruaustralia.com.au/wp-content/uploads/2021/07/iphone-12-pro-max.jpg"
+        },
+        {
+            "id": 2,
+            "name": "iphone 13 pro",
+            "desc": "Apple Iphone 12th generation ",
+            "price": 999,
+            "color": "#33505a",
+            "image":
+                   "https://www.mobileguruaustralia.com.au/wp-content/uploads/2021/07/iphone-12-pro-max.jpg"
+      },
+
+      {
+        "id": 3,
+        "name": "iphone Airpods",
+        "desc": "Apple Iphone 12th generation ",
+        "price": 999,
+        "color": "#33505a",
+        "image":
+                 "https://www.mobileguruaustralia.com.au/wp-content/uploads/2021/07/iphone-12-pro-max.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "Macbook pro",
+    "desc": "Apple Iphone 12th generation ",
+    "price": 999,
+    "color": "#33505a",
+    "image":
+          "https://www.mobileguruaustralia.com.au/wp-content/uploads/2021/07/iphone-12-pro-max.jpg"
+},
+{
+    "id": 5,
+    "name": "Macbook",
+    "desc": "Apple Iphone 12th generation ",
+    "price": 999,
+    "color": "#33505a",
+    "image":
+    "https://www.mobileguruaustralia.com.au/wp-content/uploads/2021/07/iphone-12-pro-max.jpg"
+}
+
+
+    ]
+}
